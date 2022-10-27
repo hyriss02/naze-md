@@ -3629,7 +3629,7 @@ let alfamart = `628111500959@s.whatsapp.net`
 ├ *Nama Bot* : ${botname}
 ├ *Powered* :\n├ *@${ini_mark.split('@')[0]}*
 ├ *Owner* : @${ownernya.split('@')[0]}
-├ *Mode* : ${༄𝙲𝚄𝚃𝙴 𝙱𝙾𝚃𝚉࿐.public ? 'Public' : `Self`}
+├ *Mode* : ${naze.public ? 'Public' : `Self`}
 ├ *Prefix* :「 MULTI-PREFIX 」
 ├ *Total Hit* : ${jumlahcmd}
 ├ *Total Hit Today* : ${jumlahharian}
