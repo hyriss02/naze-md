@@ -65,10 +65,10 @@ global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/nazedev'
 global.myyt = 'https://youtube.com/c/Nazedev'
 global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.mygc = "https://chat.whatsapp.com/ESIeJZi7wnzHdGaWljvpIA"
+global.botname = ' ༄𝙲𝚄𝚃𝙴 𝙱𝙾𝚃𝚉࿐'
+global.akulaku = 'Bot By Riss'
+global.ytname = 'YT RISS'
 
 
 let file = require.resolve(__filename)
