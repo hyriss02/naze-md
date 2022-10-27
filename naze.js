@@ -48,7 +48,7 @@ const hariiini = moment.tz('Asia/Jakarta').format('DD MMMM YYYY')
 const barat = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 const tengah = moment.tz('Asia/Makassar').format('HH:mm:ss')
 const timur = moment.tz('Asia/Jayapura').format('HH:mm:ss')
-const nyoutube = ('© Naze\nYoutube/Sc :\nhttps://youtube.com/c/Nazedev')  //ubah di config biar ngk emror
+const nyoutube = ('© "༄𝙲𝚄𝚃𝙴 𝙱𝙾𝚃𝚉࿐" \nInstagram/Ig Owner :\nhttps://www.instagram.com/hy.riss02?r=nametag')  //ubah di config biar ngk emror
 const ini_mark = `0@s.whatsapp.net`
 const ownernya = ownernomer + '@s.whatsapp.net'
 gambar = fs.readFileSync('./media/image/naze.jpg')
@@ -3629,7 +3629,7 @@ let alfamart = `628111500959@s.whatsapp.net`
 ├ *Nama Bot* : ${botname}
 ├ *Powered* :\n├ *@${ini_mark.split('@')[0]}*
 ├ *Owner* : @${ownernya.split('@')[0]}
-├ *Mode* : ${naze.public ? 'Public' : `Self`}
+├ *Mode* : ${༄𝙲𝚄𝚃𝙴 𝙱𝙾𝚃𝚉࿐.public ? 'Public' : `Self`}
 ├ *Prefix* :「 MULTI-PREFIX 」
 ├ *Total Hit* : ${jumlahcmd}
 ├ *Total Hit Today* : ${jumlahharian}
