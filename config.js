@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6281256023873']
+global.ownernomer = "6281256023873"
+global.premium = ['6281256023873']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = '༄𝙲𝚄𝚃𝙴 𝙱𝙾𝚃𝚉࿐'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -43,7 +43,7 @@ global.jumlah = '1000000000'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: '✅Done',
+    success: 'Done kaks',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa',
